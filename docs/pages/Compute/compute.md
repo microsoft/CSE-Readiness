@@ -31,10 +31,13 @@ Our technical community builds and runs modern cloud applications while leveragi
 ## What the community does
 
 Mainly:
+
 - We give guidance on Deployment Tools, Computing Environment and Monitoring Tools
 - We facilitate hacks and seek 3rd party hacks to attend
 - We identify gaps in products and services feedback to engineering
+
 Also:
+
 - We identify community-driven OSS projects to contribute to
 - We share patterns, lessons learned and roadmaps
 - We provide reference implementations (1st or 3rd party)
