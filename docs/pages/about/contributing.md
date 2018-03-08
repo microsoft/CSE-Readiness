@@ -35,9 +35,12 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 ## Making Changes
 
 Now, how do you actually contribute? Easy! Any time you want to update or change a site, you can either
-navigate back here to the repo manually, or you can click the "Edit Me" button on any page. 
+navigate back here to the repo manually, or you can click the "Edit Me" button on any page.
 The master branch itself is restricted to the repo admins, so please make any pull requests into the
-'Readiness' branch. These changes will be checked on regularly, and upon approval, merged into Master.
+'Readiness' branch. These changes will be checked on regularly and, upon approval, merged into Master.
+
+When making updates to pages, the only additional ask is that you update the frontmatter (the code nested in the `---` at the top of each page)
+last_updated date to today.
 
 ## Local Testing
 

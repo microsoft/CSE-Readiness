@@ -1,7 +1,7 @@
 ---
 title: CSE Readiness Repo
 keywords: knowledge base, support portal, grid, doc portal
-last_updated: March 3, 2018
+last_updated: March 8, 2018
 summary: "This site is a collection of all the best docs, videos, hands on labs and other technical resources we use in CSE."
 sidebar: home_sidebar
 permalink: index.html
