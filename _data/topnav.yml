@@ -1,0 +1,26 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/tarockey/tarockey.github.io
+    - title: News
+      url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Pillars
+      folderitems:
+        - title: AI
+          url: /ai.html
+        - title: Compute
+          url: /compute.html
+        - title: Connect Everything
+          url: /connectEverything.html
+        - title: Data
+          url: /data.html
+        - title: HCI
+          url: /hci.html

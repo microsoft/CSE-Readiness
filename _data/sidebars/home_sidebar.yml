@@ -1,0 +1,110 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  product: Pillar Resources
+  levels: one
+  folders:
+
+  - title: AI
+    output: web
+    folderitems:
+    - title: About this Pillar
+      url: /ai.html
+      output: web
+    - title: Getting Started
+      url: /ai_gettingStarted.html
+      output: web
+    - title: Cognitive Services
+      url: /ai_cognitive.html
+      output: web
+    - title: Machine Learning
+      url: /ai_machineLearning.html
+      output: web
+  - title: Compute
+    output: web
+    folderitems:
+    - title: About this Pillar
+      url: /compute.html
+      output: web
+    - title: Getting Started
+      url: /compute_gettingStarted.html
+      output: web
+    - title: PaaS
+      url: /compute_paas.html
+      output: web
+    - title: Containers
+      url: /compute_containers.html
+      output: web
+    - title: Gaming Services
+      url: /compute_gaming.html
+      output: web
+    - title: Media Services
+      url: /compute_media.html
+      output: web
+    - title: Quantum Computing
+      url: /compute_quantum.html
+      output: web
+    - title: Serverless
+      url: /compute_serverless.html
+      output: web
+  - title: Connect Everything
+    output: web
+    folderitems:
+    - title: About this Pillar
+      url: /connecteverything.html
+      output: web
+    - title: Getting Started
+      url: /ce_gettingStarted.html
+      output: web
+    - title: Graph
+      url: /ce_graph.html
+      output: web
+    - title: IoT
+      url: /ce_iot.html
+      output: web
+  - title: Cross Pillar
+    output: web
+    folderitems:
+    - title: DevOps
+      url: /cp_devops.html
+      output: web
+    - title: Developer Fundamentals
+      url: /cp_fundamentals.html
+      output: web
+    - title: Security
+      url: /cp_security.html
+      output: web
+  - title: Data
+    output: web
+    folderitems:
+    - title: About this Pillar
+      url: /data.html
+      output: web
+    - title: Getting Started
+      url: /data_gettingStarted.html
+      output: web
+    - title: Big Data Processing
+      url: /data_Processing.html
+      output: web
+    - title: Data Storage
+      url: /data_Storage.html
+      output: web
+  - title: Human Computer Interaction
+    output: web
+    folderitems:
+    - title: About this Pillar
+      url: /hci.html
+      output: web
+    - title: Getting Started
+      url: /hci_gettingStarted.html
+      output: web
+    - title: Client Development
+      url: /hci_client.html
+      output: web
+    - title: Mixed Reality
+      url: /hci_mixedreality.html
+      output: web
+    - title: CaaP
+      url: /hci_caap.html
+      output: web

@@ -1,0 +1,46 @@
+<h1>Pillars</h1>
+<ul>
+  <li><a href="../ai/gettingstarted">AI & ML</a></li>
+  <ul>
+      {% assign posts = site.resources | where: "categories", "AI" | where_exp: "post", "post.title != 'Getting Started'"  %}
+      {% for post in posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+  </ul>
+  <li><a href="../compute/gettingstarted">Compute</a></li>
+  <ul>
+      {% assign posts = site.resources | where: "categories", "Compute" | where_exp: "post", "post.title != 'Getting Started'" %}
+      {% for post in posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+  </ul>
+  <li><a href="../connecteverything/gettingstarted">Connect Everything</a></li>
+  <ul>
+      {% assign posts = site.resources | where: "categories", "Connect Everything" | where_exp: "post", "post.title != 'Getting Started'" %}      
+      {% for post in posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+  </ul>
+  <li><a href="../cross pillar">Cross Pillar</a></li>
+  <ul>
+      {% assign posts = site.resources | where: "categories", "Cross Pillar" %}
+      {% for post in posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+  </ul>
+  <li><a href="../HCI/gettingstarted">HCI</a></li>
+  <ul>
+      {% assign posts = site.resources | where: "categories", "HCI" | where_exp: "post", "post.title != 'Getting Started'" %}      
+      {% for post in posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+  </ul>
+  <li><a href="../data/gettingstarted">Data</a></li>
+  <ul>
+      {% assign posts = site.resources | where: "categories", "Data" | where_exp: "post", "post.title != 'Getting Started'" %}      
+      {% for post in posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+  </ul>
+</ul>
+
