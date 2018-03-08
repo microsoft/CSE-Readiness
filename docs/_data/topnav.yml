@@ -19,7 +19,7 @@ topnav_dropdowns:
         - title: Compute
           url: /compute.html
         - title: Connect Everything
-          url: /connectEverything.html
+          url: /connecteverything.html
         - title: Data
           url: /data.html
         - title: HCI
