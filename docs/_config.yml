@@ -12,7 +12,7 @@ site_title: CSE Readiness Docs Repository
 company_name: Microsoft
 # this appears in the footer
 
-github_editme_path: Microsoft/CSE-Readiness/blob/Readiness/
+github_editme_path: Microsoft/CSE-Readiness/blob/Readiness/docs/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 
