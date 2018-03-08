@@ -38,7 +38,7 @@ If you are on a Mac, Ruby is installed by Default. For Windows, Ruby is availabl
 
 Some extensions Jekyll uses require you to natively build the code using the Ruby Development Kit.
 
-1. Go to RubyInstaller for Windows.
+1. Go to [RubyInstaller](https://rubyinstaller.org/) for Windows.
 2. Under the Development Kit section near the bottom, download one of the For use with Ruby 2.0 and above… options (either the 32-bit or 64-bit version).
 3. Move your downloaded file onto your C drive in a folder called something like RubyDevKit.
 4. Extract the compressed folder’s contents into the folder.
