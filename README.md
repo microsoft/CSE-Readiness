@@ -43,7 +43,8 @@ Some extensions Jekyll uses require you to natively build the code using the Rub
 3. Move your downloaded file onto your C drive in a folder called something like RubyDevKit.
 4. Extract the compressed folder’s contents into the folder.
 5. Browse to the RubyDevKit location on your C drive using your Command Line Prompt.
-    To see the contents of your current directory, type dir. To move into a directory, type cd foldername, where “foldername” is the name of the folder you want to enter. To move up a directory, type cd ../ one or more times depending on how many levels you want to move up. To move into your user’s directory, type /users. The / at the beginning of the path automatically starts you at the root.
+
+To see the contents of your current directory, type dir. To move into a directory, type cd foldername, where “foldername” is the name of the folder you want to enter. To move up a directory, type cd ../ one or more times depending on how many levels you want to move up. To move into your user’s directory, type /users. The / at the beginning of the path automatically starts you at the root.
 6. Type ruby dk.rb init
 7. Type ruby dk.rb install
 
