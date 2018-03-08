@@ -17,7 +17,7 @@ to help each other upskill in the various Pillar areas. If you find a great reso
 ## Join the team
 
 This project is available on GitHub at [https://github.com/Microsoft/CSE-Readiness](https://github.com/Microsoft/CSE-Readiness). To view this
-project, please make sure you have joined the CSE Readiness team at [opensource.microsoft.com](https://repos.opensource.microsoft.com/microsoft/teams/cse-readiness).
+project, please make sure you have joined the Microsoft org at [opensource.microsoft.com](https://repos.opensource.microsoft.com/microsoft/).
 
 This project welcomes contributions and suggestions.  Because this repo is hosted in the Microsoft open source organization,
 most contributions require you to agree to a Contributor License Agreement (CLA) declaring
