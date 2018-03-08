@@ -38,7 +38,7 @@ toc: false
             <div class="panel-body">
                 <h4>Contributing</h4>
                 <p>Want to contribute to this site? Here's where to start</p>
-                <a href="tag_navigation.html" class="btn btn-primary">Learn More</a>
+                <a href="https://github.com/Microsoft/CSE-Readiness" class="btn btn-primary" target="_blank">Learn More</a>
             </div>
         </div>
     </div>

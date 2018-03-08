@@ -242,6 +242,7 @@ ul#results-container a:hover {
 
 div#toc {
     float: right;
+    width: 200px;
 }
 
 div#toc ul li {
