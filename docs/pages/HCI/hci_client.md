@@ -3,7 +3,7 @@ title: Client App Dev
 keywords: HCI
 sidebar: home_sidebar
 permalink: hci_client.html
-last_updated: March 7, 2018
+last_updated: March 13, 2018
 folder: HCI
 ---
 
@@ -34,6 +34,7 @@ folder: HCI
 - [ASP.NET Core - Beginner](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153) (MVA Course - Nov 2017)
 - [ASP.NET Core - Intermediate](https://mva.microsoft.com/en-US/training-courses/aspnet-core-intermediate-18154?l=tigJ5mbeE_8711787171) (MVA Course - Nov 2017)
 - [ASP.NET Core - Advanced](https://mva.microsoft.com/en-US/training-courses/aspnet-core-advanced-18155?l=Rw9sqs7dE_7011787171) (MVA Course - Nov 2017)
+- [TypeScript in Practice](https://www.youtube.com/watch?v=t-4ZsNNA93s&feature=youtu.be) (External Conference Session - Mar 2018)
 
 ## Xamarin
 
