@@ -8,6 +8,7 @@ folder: HCI
 ---
 
 ## Community
+
 [Teams](https://teams.microsoft.com/l/channel/19%3aff70f60a124748ff8aa3b5410e8cf268%40thread.skype/HCI%2520-%2520Mixed%2520Reality?groupId=dff0a70d-6316-4124-ae5a-e9d06f63ec34&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) channel available!
 
 <!-- Add in any communities worth following: blogs, twitter, etc. -->

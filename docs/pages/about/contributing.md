@@ -39,8 +39,8 @@ navigate back to the repo manually, or you can click the "Edit Me" button on any
 The master branch itself is restricted to the repo admins, so please make any pull requests into the
 'Readiness' branch. These changes will be checked on regularly and, upon approval, merged into Master.
 
-When making updates to pages, the only additional ask is that you update the frontmatter (the code nested in the `---` at the top of each page)
-last_updated date to today.
+When making updates to pages, the only additional ask is that you update the *last_updated* date frontmatter (the code nested in the `---` at the top of each page)
+to today.
 
 ## Local Testing
 
@@ -72,9 +72,9 @@ If you get stuck, see the official instructions for [installing Ruby Dev Kit](ht
 
 Now use `gem` to install Jekyll:
 
-```
+{% highlight ruby %}
 gem install jekyll
-```
+{% endhighlight %}
 
 You can now use Jekyll to create new Jekyll sites following the quick-start instructions on [Jekyllrb.com](http://jekyllrb.com).
 This site has already been set up
@@ -92,7 +92,7 @@ The only time you should need to restart your local server is if you make change
 ### Make your changes
 
 Now, you have everything installed and the site should be up and running. All of the documentation pages are found in the /pages folder, organized
-by pillar area. The pages all use [Kramdown](https://kramdown.gettalong.org/quickref.html) syntax for easy styling. Simply make your edits, make sure 
+by pillar area. The pages all use [Kramdown](https://kramdown.gettalong.org/quickref.html) syntax for easy styling. Simply make your edits, make sure
 they look good locally, and create a PR into the 'Readiness' branch.
 
 # Legal Notices

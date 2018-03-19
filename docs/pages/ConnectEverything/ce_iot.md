@@ -18,6 +18,7 @@ The majority of the IoT discussion is happening on the [Connect Everything Pilla
 <!-- Here, add in any links to useful resources. The structure is not fixed, it can be grouped by scenario, by tech, or set up as a learning path -->
 
 ## IoT Devices
+
 - [Coding and Debugging Raspberry Pi without a keyboard](https://www.youtube.com/watch?v=zBgj-WPiL2g) (External Conference Session - Mar 2018)
 
 ## IoT Hub
@@ -59,8 +60,8 @@ The majority of the IoT discussion is happening on the [Connect Everything Pilla
 
 ### Time Series Insights
 
-- [Putting time series data to work ](https://myignite.microsoft.com/sessions/55253) (Ignite Session - Aug 2017)
-- [What is Time Series Insights ](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview) (Tools Docs - Jan 2018)
+- [Putting time series data to work](https://myignite.microsoft.com/sessions/55253) (Ignite Session - Aug 2017)
+- [What is Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview) (Tools Docs - Jan 2018)
 
 ---
 
