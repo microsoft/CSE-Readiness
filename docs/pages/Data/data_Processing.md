@@ -24,8 +24,8 @@ folder: Data
 - [Apache Spark from Scratch on HDInsight](https://techreadytv.com/TR24/session?sCode=BACT310) (TechReady Session - Feb 2017)
 - [HDInsight Spark](https://microsoft.sharepoint.com/sites/academy/media/AEVD-3-101607) (Infopedia Video - Dec 2015)
 
-
 ## Azure DataBricks
+
 - [Technical Overview of Azure Databricks](https://content.microsoftready.com/FY18Q3/session/DAI-AAAI315) (Ready Session - Feb 2018)
 - [First Look into Azure Databricks](https://labondemand.com/AuthenticatedLaunch/38100?providerId=1) (Ready Hands on Lab - Feb 2018)
 
@@ -35,7 +35,6 @@ folder: Data
 - [Streaming big data on Azure with HDInsight Kafka, Storm and Spark](https://content.microsoftready.com/FY18Q3/session/DAI-AAAI301) (Ready Session - Feb 2018)
 - [Getting Started with Azure Analysis Services](https://labondemand.com/AuthenticatedLaunch/37996?providerId=1) (Ready Hands on Lab - Feb 2018)
 - [Scalable Analytics on Azure - Building Solutions with Azure Databricks and Azure SQL DW - *MS Internal Only*](http://aka.ms/analyticstraining) (Document Library - Mar 2018)
-
 
 ## Apache Cassandra
 
