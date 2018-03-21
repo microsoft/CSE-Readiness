@@ -16,8 +16,8 @@ folder: HCI
 
 ## Intro to React Web Apps
 
-- [Thinking in React ](https://pusher.com/sessions/meetup/bristol-js/thinking-in-react) (External Video - Jun 2017)
-- [The ReactJS Landscape ](https://www.youtube.com/watch?v=oRmj3IUkRVk) (Youtube Video - Apr 2015)
+- [Thinking in React](https://pusher.com/sessions/meetup/bristol-js/thinking-in-react) (External Video - Jun 2017)
+- [The ReactJS Landscape](https://www.youtube.com/watch?v=oRmj3IUkRVk) (Youtube Video - Apr 2015)
 - [ReactJS Intro](https://reactjs.org/tutorial/tutorial.html) (Online Tutorial - Feb 2017)
 
 ## UWP

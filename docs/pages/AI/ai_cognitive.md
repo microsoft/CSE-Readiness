@@ -8,6 +8,7 @@ folder: AI
 ---
 
 ## Community
+
 [Teams](https://teams.microsoft.com/l/channel/19%3a06951ef543134852b981ff0983d6cb75%40thread.skype/AI%2520-%2520Cognitive?groupId=dff0a70d-6316-4124-ae5a-e9d06f63ec34&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) channel available!
 
 <!-- Add in any communities worth following: blogs, twitter, etc. -->

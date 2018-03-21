@@ -26,6 +26,7 @@ folder: Data
 - [Streaming big data on Azure with HDInsight Kafka, Storm and Spark](https://content.microsoftready.com/FY18Q3/session/DAI-AAAI301) (Ready Session - Feb 2018)
 
 ### Azure Databricks
+
 - [Technical Overview of Azure Databricks](https://content.microsoftready.com/FY18Q3/session/DAI-AAAI315) (Ready Session - Feb 2018)
 - [First Look into Azure Databricks](https://labondemand.com/AuthenticatedLaunch/38100?providerId=1) (Ready Hands on Lab - Feb 2018)
 - [Scalable Analytics on Azure - Building Solutions with Azure Databricks and Azure SQL DW - *MS Internal Only*](http://aka.ms/analyticstraining) (Document Library - Mar 2018)
@@ -38,6 +39,7 @@ folder: Data
 ## Analytics
 - [Introduction to Azure Stream Analytics](https://microsoft.sharepoint.com/sites/infopedia/media/details/AEVD-3-106230) (Infopedia Video - May 2016)
 - [Getting Started with Azure Analysis Services](https://labondemand.com/AuthenticatedLaunch/37996?providerId=1) (Ready Hands on Lab - Feb 2018)
+
 
 ## Apache Cassandra
 - [Scale your Apps for the Big Time with Apache Cassandra and Microsoft Azure](https://microsoft.sharepoint.com/sites/academy/media/AEVD-3-101616) (Infopedia Video - Dec 2015)
