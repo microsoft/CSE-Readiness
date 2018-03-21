@@ -26,7 +26,7 @@ Is to nurture a focused community of deep technical experts through networking, 
 
 ## Pillar Technologies
 
-| Azure Technologies   |
+| Azure Technologies   |||||
 |---|---|---|---|---|
 |  IoT Hub | DNS  | Traffic Manager  | CDN  | Event Grid  |
 | App Insights  | Log Analytics  | Load Balancer  |  Service Bus | Notification Hub  |
