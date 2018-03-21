@@ -12,6 +12,13 @@ folder: ConnectEverything
 ## Teams Channel
 Join the discussion [here](https://teams.microsoft.com/l/channel/19%3a9711d69081884cae9a301bdbccfdac02%40thread.skype/!%2520Connect%2520Everything%2520Pillar?groupId=dff0a70d-6316-4124-ae5a-e9d06f63ec34&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)!
 
-## IoT on Azure
-
+## Intro IoT Resources 
 - [Internet of Things Show](https://channel9.msdn.com/Shows/Internet-of-Things-Show) - technical videos diving into Azure's IoT Offerings
+- [IoT Podcast](https://iotpodcast.com/)
+- [Securing the Internet of Things - MSDocs](https://docs.microsoft.com/en-us/azure/security/security-internet-of-things-overview)
+
+## Twitter Hashtags
+- [#IoT](https://twitter.com/search?q=%23IoT&src=typd)
+- [#AzureIoT](https://twitter.com/search?q=%23AzureIoT&src=typd)
+- [#IoTEdge](https://twitter.com/hashtag/IoTEdge?src=hash)
+- [#IIoT](https://twitter.com/search?q=%23IIoT&src=typd)
