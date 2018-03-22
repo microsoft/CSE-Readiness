@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tarockey/tarockey.github.io
+      external_url: https://github.com/Microsoft/CSE-Readiness
     - title: News
       url: /news
 
