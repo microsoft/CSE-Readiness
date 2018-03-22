@@ -46,15 +46,15 @@ The majority of the IoT discussion is happening on the [Connect Everything Pilla
 
 ### Tools
 
-- [Developer Tools](../cp_fundamentals#tools)
-- [Tools for Docker Development](../compute_containers#tools)
+- [Developer Tools](cp_fundamentals#tools)
+- [Tools for Docker Development](compute_containers#tools)
 
 ### Getting Started with Containers
 
-- [Getting Started with Docker](../compute_containers#getting-started-with-docker) - Edge is built around Docker containers
-- [Getting Started on Service Fabric](../compute_containers#containers-on-service-fabric)
-- [Getting Started with Kubernetes on Azure](../compute_containers#getting-started-with-kubernetes-on-azure)
-- [DevOps for Containers](../compute_containers#devops-for-containers)
+- [Getting Started with Docker](compute_containers#getting-started-with-docker) - Edge is built around Docker containers
+- [Getting Started on Service Fabric](compute_containers#containers-on-service-fabric)
+- [Getting Started with Kubernetes on Azure](compute_containers#getting-started-with-kubernetes-on-azure)
+- [DevOps for Containers](compute_containers#devops-for-containers)
 
 ### Time Series Insights
 
@@ -63,21 +63,21 @@ The majority of the IoT discussion is happening on the [Connect Everything Pilla
 
 ### Data Storage
 
-- [CosmosDB and Emulator](../data_gettingStarted#intro-to-cosmosdb)
+- [CosmosDB and Emulator](data_gettingStarted#intro-to-cosmosdb)
 - [Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator)
 
 ### Auth and Deployment
 
-- [Intro the Auth and Deployment](../cp_security) - For securing your apps and data
-- [Identity and OAuth](../cp_security#identity-and-oauth)
+- [Intro the Auth and Deployment](cp_security) - For securing your apps and data
+- [Identity and OAuth](cp_security#identity-and-oauth)
 
 ### Monitoring
 
-- [Monitoring](../cp_devops#monitoring)
+- [Monitoring](cp_devops#monitoring)
 
 ### Front End Development
 
-- [React Web Apps](../hci_client#intro-to-react-web-apps) - Many IoT front ends are written in React
+- [React Web Apps](hci_client#intro-to-react-web-apps) - Many IoT front ends are written in React
 
 ### OPC-UA
 
