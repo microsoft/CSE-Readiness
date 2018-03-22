@@ -3,7 +3,7 @@ title: Security and Identity
 keywords: Security
 sidebar: home_sidebar
 permalink: cp_security.html
-last_updated: March 7, 2018
+last_updated: March 22, 2018
 folder: Cross-Pillar
 ---
 
@@ -24,3 +24,9 @@ folder: Cross-Pillar
 - [Azure Active Directory Auth & Single-sign-on](https://myignite.microsoft.com/videos/53402) (Ignite Session - Sept 2017)
 - [Managing enterprise application, permissions and consent in AAD](https://myignite.microsoft.com/videos/55411) (Ignite Session - Sept 2017)
 - [Keys to the cloud: Microsoft Identities to sign in and access APIs from mobile & web apps](https://myignite.microsoft.com/videos/55067) (Ignite Session - Sept 2017)
+
+## Identity and Oauth
+
+- [Dick Hardt - Identity 2.0](https://www.youtube.com/watch?v=RrpajcAgR1E) (External Conference Session - Feb 2006)
+- [OAuth 2.0 Authorization Server](https://docs.microsoft.com/en-us/aspnet/aspnet/overview/owin-and-katana/owin-oauth-20-authorization-server) (MS Docs - May 2014)
+- [Advanced ASP.NET Core Authorization](https://channel9.msdn.com/Blogs/Seth-Juarez/Advanced-aspNET-Core-Authorization-with-Barry-Dorrans) (Channel 9 Video - Mar 2016)
