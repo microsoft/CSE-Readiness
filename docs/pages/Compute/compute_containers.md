@@ -15,7 +15,7 @@ folder: Compute
 ---
 <!-- Here, add in any links to useful resources. The structure is not fixed, it can be grouped by scenario, by tech, or set up as a learning path -->
 
-## Tools 
+## Tools
 
 - [Visual Studio Container Toolchain](https://channel9.msdn.com/Events/Build/2017/KEY01#time=1h39m43s) (Build Presentation - May 2017)
 - [Docker Plugin for VSCode](http://code.visualstudio.com/docs/languages/dockerfile) (Plugin Docs - August 2017)
