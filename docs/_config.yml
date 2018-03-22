@@ -107,5 +107,5 @@ description: "For use as an index of useful vidoes, docs, etc that CSE uses for 
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://microsoft.github.io/cse-readiness
+url: http://microsoft.github.io/CSE-Readiness
 baseurl:
