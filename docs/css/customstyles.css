@@ -1203,3 +1203,12 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+.metaTag:link, .metaTag:visited, .metaTag{
+    clip-path: polygon(0% 50%, 25% 0%, 100% 0%, 100% 100%, 25% 100%);
+    background-color: #c4c4c4;
+    padding-right: .1em;
+    padding-left: .75em;
+    color: black;
+    font-size: 10px;
+}
