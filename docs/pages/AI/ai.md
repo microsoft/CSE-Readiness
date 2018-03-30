@@ -14,17 +14,13 @@ Join the discussion [here](https://teams.microsoft.com/l/channel/19%3aa5a6e26d62
 
 <!-- Here is where the Pillar leads can put in the main goals/principles of the Pillar -->
 
-## Operating Principles
+People can innovate faster with Microsoft's flexible AI platform and tools by infusing intelligence into their own products and solutions. Focus areas include:
 
-TODO
+* Powerful, productive and customizable services such as Microsoft Bot Framework, Cognitive Services, and Azure Machine Learning. We have one million developers accessing our pre-built and customizable AI services today. They can infuse these services into their apps in hours – not days or weeks. We have the most complete solution for building Bots, together with a powerful platform for Custom AI development with Azure Machine Learning that covers the entire development lifecycle.
 
-## Pillar Mission
+* Great new Visual Studio capabilities for AI development. Six million developers currently use Visual Studio, making it the preferred tool for application development. We now have a huge opportunity to also make it the preferred tool for AI development. 
 
-TODO
-
-## Pillar Scenarios
-
-TODO
+* A unique cloud infrastructure, including CPU and GPU, making Azure the best cloud for AI training and execution. Most importantly, we extend our intelligent cloud to the edge, supporting unique scenarios across the edge of devices and IoT powered by AI.
 
 ## What the community does
 
