@@ -60,8 +60,21 @@ Some extensions Jekyll uses require you to natively build the code using the Rub
 3. Run the Executable file to install Ruby.
 4. Once the installation is complete, a command prompt will open - run options 1, 2, and 3 to install the msys tools.
 5. Check that your PATH variable has been updated to include the /bin/ folder where Ruby was installed (e.g. C:/Ruby24-x64/bin/).
-6. Install [RubyGems](https://rubygems.org/pages/download) by downloading the Zip, navigating to the extracted folder, and running `ruby setup.rb`
 
+### Install Ruby Gems
+
+For Windows, install [RubyGems](https://rubygems.org/pages/download) by downloading the Zip, navigating to the extracted folder, and running `ruby setup.rb`
+
+On Ubuntu make sure you install the needed dependencies before running the bundle install command:
+
+`sudo apt-get install libz-dev`
+
+Run the command: 
+
+```
+rm Gefile.lock
+bundle install
+```
 ### Install Jekyll
 
 Now use `gem` to install Jekyll:
