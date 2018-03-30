@@ -8,6 +8,14 @@ tags: [get_started]
 folder: Data
 ---
 
-## Azure Specific
+## Azure Specific Questions
 
 - [1st party services or 3rd party services?]()
+
+## Azure Services
+
+- Azure SQL
+- Azure DW
+- Azure Postgres
+
+[To Be Continued]
