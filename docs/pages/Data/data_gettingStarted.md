@@ -3,7 +3,7 @@ title: Getting Started with Data
 keywords: Data
 sidebar: home_sidebar
 permalink: data_gettingStarted.html
-last_updated: March 7, 2018
+last_updated: March 30, 2018
 tags: [get_started]
 folder: Data
 ---
@@ -18,19 +18,37 @@ Join the discussion [here](https://teams.microsoft.com/l/channel/19%3a2c30f3f0d4
 ---
 <!-- Here, add in any links to useful resources. The structure is not fixed, it can be grouped by scenario, by tech, or set up as a learning path -->
 
-## Intro to CosmosDB
+## Common concepts and scenario
 
-- [Introduction ](https://myignite.microsoft.com/sessions/54947) (Ignite Session - Oct 2017)
-- [Emulator ](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator) (Tools Download/ Tools Docs - Jan 2018)
+- [Relational Databases](relational-databases.html)
+- [Non-Relational Databases](non-relational-databases.html)
+- [Data Warehouse](data-warehouse.html)
+- [Business Intelligence](business-intelligence.html)
+- [Business Analytics](business-analytics.html)
+- [Big Data](big-data.html)
+- [Data Stream Processing](data-stream-processing.html)
+- [Data Curation](data-curation.html)
+
+## Common technologies and technical concepts
+
+- [Column Stores and Row Stores]()
+- [Distributed Computing]()
+- [ACID properties]()
+- [CAP theorem]()
+- [OLTP & OLAP]()
+- [Polyglot persistence]()
+- [Lambda Architecture]()
+- [Kappa Architecture]()
+- [ETL / ELT]()
+
+## Azure Specific
+
+- [1st party services or 3rd party services?]()
 
 ## Useful Tools
 
 - [Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) (Tools Download)
-
-## Next Steps
-
-- [Data Storage](data_Storage)
-- [Data Processing](data_Processing)
+- [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) (Useful also for Cosmos DB)
 
 ## External Links
 

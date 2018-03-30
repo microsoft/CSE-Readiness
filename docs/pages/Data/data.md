@@ -13,14 +13,6 @@ folder: Data
 
 TODO
 
-## Pillar Mission
-
-TODO
-
-## Pillar Scenarios
-
-TODO
-
 ## What the community does
 
 Mainly:
