@@ -17,14 +17,6 @@ Join the discussion [here](https://teams.microsoft.com/l/channel/19%3a14b98c752f
 
 TODO
 
-## Pillar Mission
-
-TODO
-
-## Pillar Scenarios
-
-TODO
-
 ## What the community does
 
 Mainly:

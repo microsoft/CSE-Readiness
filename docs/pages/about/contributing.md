@@ -51,23 +51,30 @@ To test the site locally, there are a few steps you need to take:
 This site is based on Jekyll, which runs on Ruby.
 If you are on a Mac, Ruby is installed by Default. For Windows, Ruby is available [here](https://rubyinstaller.org/)
 
-### Install the Ruby Developer Kit
+### Install the Ruby Developer Kit (Windows only)
 
 Some extensions Jekyll uses require you to natively build the code using the Ruby Development Kit.
 
 1. Go to [RubyInstaller](https://rubyinstaller.org/) for Windows.
-2. Under the Development Kit section near the bottom, download one of the For use with Ruby 2.0 and above… options (either the 32-bit or 64-bit version).
-3. Move your downloaded file onto your C drive in a folder called something like RubyDevKit.
-4. Extract the compressed folder’s contents into the folder.
-5. Browse to the RubyDevKit location on your C drive using your Command Line Prompt.
+2. Under the Development Kit section near the bottom, download one of the For use with Ruby 2.4 and above… options (either the 32-bit or 64-bit version).
+3. Run the Executable file to install Ruby.
+4. Once the installation is complete, a command prompt will open - run options 1, 2, and 3 to install the msys tools.
+5. Check that your PATH variable has been updated to include the /bin/ folder where Ruby was installed (e.g. C:/Ruby24-x64/bin/).
 
-To see the contents of your current directory, type dir. To move into a directory, type cd foldername, where “foldername” is the name of the folder you want to enter. To move up a directory, type cd ../ one or more times depending on how many levels you want to move up. To move into your user’s directory, type /users. The / at the beginning of the path automatically starts you at the root.
+### Install Ruby Gems
 
-6. Type ruby dk.rb init
-7. Type ruby dk.rb install
+For Windows, install [RubyGems](https://rubygems.org/pages/download) by downloading the Zip, navigating to the extracted folder, and running `ruby setup.rb`
 
-If you get stuck, see the official instructions for [installing Ruby Dev Kit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
+On Ubuntu make sure you install the needed dependencies before running the bundle install command:
 
+`sudo apt-get install libz-dev`
+
+Run the command: 
+
+```
+rm Gefile.lock
+bundle install
+```
 ### Install Jekyll
 
 Now use `gem` to install Jekyll:

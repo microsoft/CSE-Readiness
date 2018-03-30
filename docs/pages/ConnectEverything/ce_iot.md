@@ -63,8 +63,8 @@ The majority of the IoT discussion is happening on the [Connect Everything Pilla
 
 ### Data Storage
 
-- [CosmosDB and Emulator](data_gettingStarted#intro-to-cosmosdb)
-- [Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator)
+- [CosmosDB](non-relational-databases#cosmosdb) <a href="./data_storage" class="metaTag">Data</a>
+- [Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) <a href="./data_storage" class="metaTag">Data</a>
 
 ### Auth and Deployment
 
@@ -77,7 +77,7 @@ The majority of the IoT discussion is happening on the [Connect Everything Pilla
 
 ### Front End Development
 
-- [React Web Apps](hci_client#intro-to-react-web-apps) - Many IoT front ends are written in React
+- [React Web Apps](hci_client#intro-to-react-web-apps) <a href="./hci_client" class="metaTag">HCI</a> - Many IoT front ends are written in React
 
 ### OPC-UA
 

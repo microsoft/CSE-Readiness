@@ -84,11 +84,14 @@ entries:
     - title: Getting Started
       url: /data_gettingStarted.html
       output: web
-    - title: Big Data Processing
-      url: /data_Processing.html
+    - title: Data Ecosystem Concepts
+      url: /data_ecosystemConcepts.html
       output: web
-    - title: Data Storage
-      url: /data_Storage.html
+    - title: Technical Concepts
+      url: /data_technicalConcepts.html
+      output: web
+    - title: Azure Specifics
+      url: /data_azureSpecifics.html
       output: web
   - title: Human Computer Interaction
     output: web
