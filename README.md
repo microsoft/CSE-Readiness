@@ -33,6 +33,7 @@ To test the site locally, there are a few steps you need to take:
 
 This site is based on Jekyll, which runs on Ruby.
 If you are on a Mac, Ruby is installed by Default. For Windows, Ruby is available [here](https://rubyinstaller.org/)
+If you're on Windows and want to use Ubuntu Bash shell, follow the instruction [here](http://idroot.net/linux/install-jekyll-ubuntu-16-04-lts/). Once finished move to the "Install Bundler" section. 
 
 ### Install the Ruby Developer Kit
 
@@ -64,7 +65,20 @@ This site has already been set up
 
 ### Install Bundler
 
-1. Run the command: `gem install bundler`
+Run the command: `gem install bundler`
+
+### Install Ruby Gems
+
+On Ubuntu make sure you install the needed dependencies before running the bundle install command:
+
+`sudo apt-get install libz-dev`
+
+Run the command: 
+
+```
+rm Gefile.lock
+bundle install
+```
 
 ### Run the site
 
