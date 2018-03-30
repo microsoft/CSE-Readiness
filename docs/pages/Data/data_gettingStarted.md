@@ -18,33 +18,6 @@ Join the discussion [here](https://teams.microsoft.com/l/channel/19%3a2c30f3f0d4
 ---
 <!-- Here, add in any links to useful resources. The structure is not fixed, it can be grouped by scenario, by tech, or set up as a learning path -->
 
-## Common concepts and scenario
-
-- [Relational Databases](relational-databases.html)
-- [Non-Relational Databases](non-relational-databases.html)
-- [Data Warehouse](data-warehouse.html)
-- [Business Intelligence](business-intelligence.html)
-- [Business Analytics](business-analytics.html)
-- [Big Data](big-data.html)
-- [Data Stream Processing](data-stream-processing.html)
-- [Data Curation](data-curation.html)
-
-## Common technologies and technical concepts
-
-- [Column Stores and Row Stores]()
-- [Distributed Computing]()
-- [ACID properties]()
-- [CAP theorem]()
-- [OLTP & OLAP]()
-- [Polyglot persistence]()
-- [Lambda Architecture]()
-- [Kappa Architecture]()
-- [ETL / ELT]()
-
-## Azure Specific
-
-- [1st party services or 3rd party services?]()
-
 ## Useful Tools
 
 - [Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) (Tools Download)
