@@ -3,13 +3,19 @@ title: Machine Learning
 keywords: AI, Machine Learning, ML
 sidebar: home_sidebar
 permalink: ai_machineLearning.html
-last_updated: March 7, 2018
+last_updated: March 29, 2018
 folder: AI
 ---
 
 ## Community
 
 [Teams](https://teams.microsoft.com/l/channel/19%3a9213dae678324a14a2ec4b904522a91f%40thread.skype/AI%2520-%2520Machine%2520Learning?groupId=dff0a70d-6316-4124-ae5a-e9d06f63ec34&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) channel available!
+
+- [The Simplest Machine Learning](https://www.youtube.com/watch?v=kUV045QBWJg&index=2&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1) (The AI Show - Mar 2018)
+- [Approaches for Sequence Classification on Financial Time Series Data](https://www.youtube.com/watch?v=flMCYqIn3eg&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1&index=7) (Conference Talk - Mar 2018)
+- [When And When Not To Use Deep Learning](https://www.youtube.com/watch?v=bdxDPNIizV0&index=4&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1) (The AI Show - Mar 2018)
+- [Interview with Rita Zhang, Principal Software Engineer](https://www.youtube.com/watch?v=kZXM0hi1gFg&list=PLlrxD0HtieHjdZqKBtyEAqX0R75w36HPW) (Youtube Video - Mar 2018)
+- [Interview with Lauren Tran, Software Engineer Focused on Machine Learning](https://www.youtube.com/watch?v=5lvFveevcLY&index=3&list=PLlrxD0HtieHjdZqKBtyEAqX0R75w36HPW) (YouTube Video - Mar 2018)
 
 <!-- Add in any communities worth following: blogs, twitter, etc. -->
 ---
