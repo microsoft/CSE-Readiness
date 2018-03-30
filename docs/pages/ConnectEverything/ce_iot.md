@@ -63,7 +63,7 @@ The majority of the IoT discussion is happening on the [Connect Everything Pilla
 
 ### Data Storage
 
-- [CosmosDB and Emulator](data_gettingStarted#intro-to-cosmosdb) <a href="./data_storage" class="metaTag">Data</a>
+- [CosmosDB](non-relational-databases#cosmosdb) <a href="./data_storage" class="metaTag">Data</a>
 - [Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) <a href="./data_storage" class="metaTag">Data</a>
 
 ### Auth and Deployment
