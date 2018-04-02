@@ -3,9 +3,7 @@
 entries:
 - title: Sidebar
   product: Pillar Resources
-  levels: one
   folders:
-
   - title: AI
     output: web
     folderitems:
@@ -84,9 +82,34 @@ entries:
     - title: Getting Started
       url: /data_gettingStarted.html
       output: web
-    - title: Data Ecosystem Concepts
-      url: /data_ecosystemConcepts.html
-      output: web
+      subfolders:
+      - title: Data Ecosystem Concepts
+        output: web
+        subfolderitems:
+        - title: Big Data
+          output: web
+          url: /big-data.html
+        - title: Business Analytics
+          output: web
+          url: /business-analytics.html
+        - title: Business Intelligence
+          output: web
+          url: /business-intelligence.html
+        - title: Data Curation
+          output: web
+          url: /data-curation.html
+        - title: Data Stream Processing
+          output: web
+          url: /data-stream-processing.html
+        - title: Data Warehouse
+          output: web
+          url: /data-warehouse.html
+        - title: Non Relational Databases
+          output: web
+          url: /non-relational-databases.html
+        - title: Relational Databases
+          output: web
+          url: /relational-databases.html
     - title: Technical Concepts
       url: /data_technicalConcepts.html
       output: web
