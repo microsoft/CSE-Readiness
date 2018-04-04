@@ -3,7 +3,7 @@ title: Containers
 keywords: Compute, Containers, Docker
 sidebar: home_sidebar
 permalink: compute_containers.html
-last_updated: March 7, 2018
+last_updated: April 4, 2018
 folder: Compute
 ---
 
@@ -21,6 +21,9 @@ folder: Compute
 - [Docker Plugin for VSCode](http://code.visualstudio.com/docs/languages/dockerfile) (Plugin Docs - August 2017)
 - [Visual Studio Docker Tools](https://docs.microsoft.com/en-us/aspnet/core/publishing/visual-studio-tools-for-docker) (Tools Docs - Dec 2017)
 - [Enable Windows Subsystem for Linux](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide?f=255&MSPPError=-2147217396) (Tools Docs - July 2017)
+
+## Getting Started with Containers
+- [Linux Containers from Scratch](https://github.com/dcasati/rubber-docker) (Workshop - GitHub Repo - Apr 2018)
 
 ## Getting started with Docker
 
