@@ -53,6 +53,7 @@ folder: AI
 - [Introduction to Jupyter Notebooks](https://microsoft.sharepoint.com/sites/academy/media/AEVD-3-102003) (MVA Video - Dec 2015)
 - [Publishing Azure ML Models](https://microsoft.sharepoint.com/sites/academy/media/AEVD-3-102004) (MVA Video - Dec 2015)
 - [GitHub - Microsoft Data Science and ML Essentials](https://github.com/MicrosoftLearning/Data-Science-Essentials/tree/master/Labs) (Hands on Labs - Jan 2017)
+- [Deep Learning on Azure](https://azure.github.io/learnAnalytics-DeepLearning-Azure/index.html) (Docs library - Oct 2017)
 
 ## R Server
 
