@@ -2,6 +2,7 @@
 
 The CSE Readiness project is designed to be an agile, open source way for us, CSE, to share the best and most useful documentation, videos, blog posts,
 to help each other upskill in the various Pillar areas. If you find a great resource, please consider adding it to the right page in the repo.
+While this repo is intended to be open to anyone and everyone, there are some resources that are MSFT internal only - these links will require authentication to be reached.
 
 # Contributing
 
