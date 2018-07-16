@@ -53,6 +53,8 @@ Get started quickly with the content here
 - [Galaxy Explorer](https://github.com/Microsoft/GalaxyExplorer) (GitHub Repo) Open Source application available in the store. Useful end to end demonstration of how to build a Unity app for Windows MR.
 - [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) (GitHub Repo) The Mixed Reality Toolkit is a collection of scripts and components intended to accelerate development of applications targeting Microsoft HoloLens and Windows Mixed Reality headsets. The project is aimed at reducing barriers to entry to create mixed reality applications and contribute back to the community as we all grow.
 - [Coding4Fun: Mixed Reality Lunar Module](https://github.com/Microsoft/MRDesignLabs_Unity_LunarModule) (GitHub repo) This HoloLens project comes to us from [Microsoft Mixed Reality Design Labs](https://developer.microsoft.com/en-us/windows/mixed-reality/design). This repo is where Microsoft's Windows Mixed Reality Design team publishes examples and explorations. The goal is to inspire creators and help them to build Mixed Reality experiences. We share sample app projects here that demonstrate how to use various types of common controls and patterns in Mixed Reality. Find out details about common controls and sample apps on https://developer.microsoft.com/en-us/windows/mixed-reality/design.
+- [Midex Really + Cognitive Service samples] (https://github.com/Microsoft/reality-augmentation-using-cognitive-services) Common MR x AI (based on Cognitive Services) senarios are covered this sample.
+
 
 ## Presentations and Recordings
 
