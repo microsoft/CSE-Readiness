@@ -1,7 +1,6 @@
 # What is this site?
 
-The CSE Readiness project is designed to be an agile, open source way for us, CSE, to share the best and most useful documentation, videos, blog posts,
-to help each other upskill in the various Pillar areas. If you find a great resource, please consider adding it to the right page in the repo.
+The CSE Readiness project is designed to be an agile, open source way for us, CSE, to share the best and most useful documentation, videos, blog posts, to help each other upskill in the various Pillar areas. If you find a great resource, please consider adding it to the right page in the repo.
 While this repo is intended to be open to anyone and everyone, there are some resources that are MSFT internal only - these links will require authentication to be reached.
 
 # Contributing
@@ -22,7 +21,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 ## Making Changes
 
 Now, how do you actually contribute? Easy! Any time you want to update or change a site, you can either
-navigate back here to the repo manually, or you can click the "Edit Me" button on any page. 
+navigate back here to the repo manually, or you can click the `Edit Me` button on any page. 
 The master branch itself is restricted to the repo admins, so please make any pull requests into the
 'Readiness' branch. These changes will be checked on regularly, and upon approval, merged into Master.
 
@@ -44,7 +43,7 @@ Some extensions Jekyll uses require you to natively build the code using the Rub
 2. Under the Development Kit section near the bottom, download one of the For use with Ruby 2.4 and above… options (either the 32-bit or 64-bit version).
 3. Run the Executable file to install Ruby.
 4. Once the installation is complete, a command prompt will open - run options 1, 2, and 3 to install the msys tools.
-5. Check that your PATH variable has been updated to include the /bin/ folder where Ruby was installed (e.g. C:/Ruby24-x64/bin/).
+5. Check that your PATH variable has been updated to include the `/bin/` folder where Ruby was installed (e.g. `C:/Ruby24-x64/bin/`).
 
 ### Install Ruby Gems
 
@@ -79,13 +78,13 @@ Run the command: `gem install bundler`
 
 ### Run the site
 
-Now that you have Ruby, Rubygem, Jekyll, and bundler installed, navigate to the /docs folder, and run `bundle exec jekyll serve`. This will build and deploy the site
-locally on 127.0.0.1:4000. When working locally, you can leave the server running. When you make edits, Jekyll will automatically rebuild the pages!
-The only time you should need to restart your local server is if you make changes to config.yml (which you likely won't need to do).
+Now that you have Ruby, Rubygem, Jekyll, and bundler installed, navigate to the `/docs` folder, and run `bundle exec jekyll serve`. This will build and deploy the site
+locally on `127.0.0.1:4000`. When working locally, you can leave the server running. When you make edits, Jekyll will automatically rebuild the pages!
+The only time you should need to restart your local server is if you make changes to `config.yml` (which you likely won't need to do).
 
 ### Make your changes
 
-Now, you have everything installed and the site should be up and running. All of the documentation pages are found in the /pages folder, organized
+Now, you have everything installed and the site should be up and running. All of the documentation pages are found in the `/pages` folder, organized
 by pillar area. The pages all use [Kramdown](https://kramdown.gettalong.org/quickref.html) syntax for easy styling. Simply make your edits, make sure 
 they look good locally, and create a PR into the 'Readiness' branch.
 
