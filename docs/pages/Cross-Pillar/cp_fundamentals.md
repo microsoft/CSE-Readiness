@@ -10,7 +10,7 @@ folder: Cross-Pillar
 
 ## Community
 
-[Developemnt Philosophies](https://teams.microsoft.com/l/channel/19%3ae53a64fbd0824c2683d86db5acaca31d%40thread.skype/Cross%2520Pillar%2520-%2520Software%2520Development%2520Philosophies?groupId=dff0a70d-6316-4124-ae5a-e9d06f63ec34&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) Teams Channel available!
+[Development Philosophies](https://teams.microsoft.com/l/channel/19%3ae53a64fbd0824c2683d86db5acaca31d%40thread.skype/Cross%2520Pillar%2520-%2520Software%2520Development%2520Philosophies?groupId=dff0a70d-6316-4124-ae5a-e9d06f63ec34&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) Teams Channel available!
 
 <!-- Add in any communities worth following: blogs, twitter, etc. -->
 
