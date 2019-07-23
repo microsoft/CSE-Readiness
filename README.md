@@ -1,3 +1,6 @@
+*NOTE* THIS IS NO LONGER MAINTAINED
+
+
 # What is this site?
 
 The CSE Readiness project is designed to be an agile, open source way for us, CSE, to share the best and most useful documentation, videos, blog posts, to help each other upskill in the various Pillar areas. If you find a great resource, please consider adding it to the right page in the repo.
